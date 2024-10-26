@@ -1,0 +1,2 @@
+# Mapping-amino-acid-conservation-patterns-Sequence-logo-insights-with-R
+A sequence logo constitutes a graphical representation of a multiple sequence alignment, characterized by color-coded stacks of letters that symbolize amino acids at successive positions. This R script is to perform multiple sequence alignment and visualize the conservation patterns of amino acids in peptide sequences using a sequence logo plot.
